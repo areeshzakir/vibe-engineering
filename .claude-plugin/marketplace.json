@@ -1,0 +1,17 @@
+{
+  "name": "vibe-engineering",
+  "owner": {
+    "name": "areeshzakir"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugin marketplace.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "description": "Matt Pocock's engineering + productivity skills (diagnose, tdd, triage, to-prd, caveman, handoff, and more).",
+      "source": "github:mattpocock/skills"
+    }
+  ]
+}
